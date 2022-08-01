@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.befb4e9a.css",
+    "main.js": "/static/js/main.a32774a2.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/01.jpg": "/static/media/01.825d7a1f8c7cb6094f07.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/image0-1536x1152.png": "/static/media/image0-1536x1152.e2aa018b8d2ded17744c.png",
+    "static/media/image1-1536x1152.png": "/static/media/image1-1536x1152.10a8bad28ef94420744b.png",
+    "static/media/image2-1536x1152.png": "/static/media/image2-1536x1152.85a496c0137577d6fad8.png",
+    "static/media/image5-1536x1152.png": "/static/media/image5-1536x1152.ca75eabbeb02ea15ffee.png",
+    "static/media/image3-1536x1152.png": "/static/media/image3-1536x1152.6be6034cc0998394a429.png",
+    "static/media/Galaxy-S20FE-Color-KV_PC_001.jpg": "/static/media/Galaxy-S20FE-Color-KV_PC_001.a3e3e3983545cd2270e1.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/S20-20_P_Pink-Blue_Family_PC_img.jpg": "/static/media/S20-20_P_Pink-Blue_Family_PC_img.5e81df2ff01c4a667476.jpg",
+    "static/media/S20-Ultra_Black-Gray_Family_PC_img.jpg": "/static/media/S20-Ultra_Black-Gray_Family_PC_img.8e07735049be0f30babc.jpg",
+    "static/media/image4-1536x1152.png": "/static/media/image4-1536x1152.61f455fb61590954b2d2.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/MacBook-Pro-2021.jpg": "/static/media/MacBook-Pro-2021.947447a81c0260f3a864.jpg",
+    "static/media/logo.png": "/static/media/logo.25d10b2be2b3e7f757b3.png",
+    "index.html": "/index.html",
+    "main.befb4e9a.css.map": "/static/css/main.befb4e9a.css.map",
+    "main.a32774a2.js.map": "/static/js/main.a32774a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.befb4e9a.css",
+    "static/js/main.a32774a2.js"
+  ]
+}
